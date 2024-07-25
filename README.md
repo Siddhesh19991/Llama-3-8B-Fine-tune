@@ -1,6 +1,6 @@
 # Llama-3-8B-Fine-tune
 
-This repository demonstrates the fine-tuning of the Llama-3-8B model and compares its performance with the base model. It is part of a comparative study between fine-tuning and RAG (Retrieval-Augmented Generation) to determine which approach is more suitable for our use case.
+This repository demonstrates the fine-tuning of the Llama-3-8B model and compares its performance with the base model. It is part of a comparative study between fine-tuning and Retrieval-Augmented Generation (RAG) to determine which approach is more suitable for our use case.
 
 The detailed blog can be found here.
 
