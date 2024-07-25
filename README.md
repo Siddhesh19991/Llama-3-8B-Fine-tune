@@ -14,3 +14,4 @@ For this project, we will be using publicly available medical data. This dataset
 For questions or feedback about the project, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/siddhesh-sreedar/).
 
 
+The RAG implementation for this study can be found [here](https://github.com/Siddhesh19991/RAG_Medical_Data).
