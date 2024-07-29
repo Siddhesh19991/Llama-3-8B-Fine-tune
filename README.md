@@ -2,7 +2,7 @@
 
 This repository demonstrates the fine-tuning of the Llama-3-8B model and compares its performance with the base model. It is part of a comparative study between fine-tuning and Retrieval-Augmented Generation (RAG) to determine which approach is more suitable for our use case.
 
-The detailed blog can be found here.
+The detailed blog can be found [here](https://medium.com/@siddheshraw/389554dd1f64).
 
 Fine_tuning.ipynb contains all the code necessary for fine-tuning the model.
 
