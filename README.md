@@ -17,4 +17,4 @@ You can access the fine-tuned model on Hugging Face via this [link](https://hugg
 For questions or feedback about the project, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/siddhesh-sreedar/).
 
 
-The RAG implementation for this study can be found [here](https://github.com/Siddhesh19991/RAG_Medical_Data).
+**The RAG implementation for this study can be found [here](https://github.com/Siddhesh19991/RAG_Medical_Data).**
