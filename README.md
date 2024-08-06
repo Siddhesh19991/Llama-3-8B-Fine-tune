@@ -4,6 +4,8 @@ This repository demonstrates the fine-tuning of the Llama-3-8B model and compare
 
 The detailed blog can be found [here](https://medium.com/@siddheshraw/389554dd1f64).
 
+The link to the RAG implementation can be found [here](https://github.com/Siddhesh19991/RAG_Medical_Data). 
+
 Fine_tuning.ipynb contains all the code necessary for fine-tuning the model.
 
 
